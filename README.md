@@ -8,7 +8,7 @@
 * The lowermost layer is the disk I/O layer which reads and writes pages from and to the disk. In your case, the disk will just be the UNIX file system.  
 
 ### Stages:
-Stage 3: Implementation of a Buffer Manager.
-Stage 4: Implementaion of heap files - a collection of pages that is used to hold a relation.
-Stage 5: Implemention of the database catalogs and various utilities.
-Stage 6: Implementaion of a number of relational operators.
+* Stage 3: Implementation of a Buffer Manager.
+* Stage 4: Implementaion of heap files - a collection of pages that is used to hold a relation.
+* Stage 5: Implemention of the database catalogs and various utilities.
+* Stage 6: Implementaion of a number of relational operators.
